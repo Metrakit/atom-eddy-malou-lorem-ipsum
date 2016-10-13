@@ -1,0 +1,18 @@
+{
+  "name": "eddy-malou-lorem-ipsum",
+  "main": "./lib/main.js",
+  "version": "0.0.1",
+  "description": "The congolexicomatisation language in an Atom package four your dummy text !",
+  "repository": "https://github.com/metrakit/atom-eddy-malou-lorem-ipsum",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "providedServices": {
+    "autocomplete.provider": {
+      "versions": {
+        "2.0.0": "provide"
+      }
+    }
+  }
+}
