@@ -21,3 +21,6 @@ This idea come from the [Eddy Malou generator](http://eddy-malou.com/) webSite :
 * Add text from the contextual menu
 * Add text from the menu
 * Add text from a shortcut
+
+## Also available...
+* Sublime Text 3 : https://github.com/Metrakit/eddy-malou-lorem-ipsum
