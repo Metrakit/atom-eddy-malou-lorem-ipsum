@@ -1,7 +1,5 @@
 # EddyMalou Lorem Ipsum for [Atom](https://atom.io)
 
-# EddyMalou Lorem Ipsum for [Sublime Text 3](http://www.sublimetext.com)
-
 You are bored to use the traditional "Lorem Ipsum" for your dummy texts ? Okey, Eddy Malou Lorem Ipsum is there for help you.
 
 It's an package for Atom, It allow us to use some dummy text (like Lorem Ipsum) but with the Eddy Malou syntax.
